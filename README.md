@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--My name is Bharadwaj P, and I'm a Full Stack, Computer Science, Data Structures, and C++, Python, and JS enthusiast. Currently, I'm a Front-end developer working on and contributing to numerous web app development projects.
+My name is Bharadwaj P, and I'm a Full Stack, Computer Science, Data Structures, and C++, Python, and JS enthusiast. Currently, I'm a Front-end developer working on and contributing to numerous web app development projects.
 
 - 🔭 I’m currently working on Freelance projects
 - 🌱 I’m currently learning Full Stack development
